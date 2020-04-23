@@ -24,7 +24,7 @@ You now have had the opportunity to work with a range of supervised machine lear
 ### Jupyter Notebook [Grid_Search_Lab.ipynb](/Grid_Search_Lab.ipynb)
 
 ## Regression Metricss
-### Jupyter Notebook [Boston Housing Data](/Regression Metrics.ipynb)
+### Jupyter Notebook [Boston Housing Data](/Regression%20Metrics.ipynb)
 
 ## Spam & Ensembles
 ### Jupyter Notebook [Spam & Ensembles](/Spam_&_Ensembles.ipynb)
