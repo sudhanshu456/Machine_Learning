@@ -27,4 +27,4 @@ You now have had the opportunity to work with a range of supervised machine lear
 ### Jupyter Notebook [Boston Housing Data](/Regression Metrics.ipynb)
 
 ## Spam & Ensembles
-### Jupyter Notebook [Spam_&_Ensembles.ipynb](/Spam_&_Ensembles.ipynb)
+### Jupyter Notebook [Spam & Ensembles](/Spam_&_Ensembles.ipynb)
